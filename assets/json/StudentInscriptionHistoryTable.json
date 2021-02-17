@@ -1,0 +1,29 @@
+{
+  "Result": "OK",
+  "Records": [
+    {
+      "id_student": 182,
+      "student": "Romain Meunier",
+      "annee_scolaire": "2016-2017",
+      "nom_orientation": "2nde L",
+      "classe_name": "2nde L A",
+      "resultat": "succès"
+    },
+    {
+      "id_student": 182,
+      "student": "Romain Meunier",
+      "annee_scolaire": "2017-2018",
+      "nom_orientation": "1ere L",
+      "classe_name": "1ere L A",
+      "resultat": "succès"
+    },
+    {
+      "id_student": 182,
+      "student": "Romain Meunier",
+      "annee_scolaire": "2016-2017",
+      "nom_orientation": "Tle L",
+      "classe_name": "Tle L A",
+      "resultat": "succès"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Result": "OK",
+  "Records": [
+    {
+      "id_famille": 34,
+      "nom_prenom": "Medoune Fall",
+      "telephone": "0705059507",
+      "email": "fall@gmail.com",
+      "profession": "15",
+      "adresse": "4 grande rue",
+      "contact_urgence": "Ngone DIOP",
+      "telephone_urgence": "0106090807",
+      "profession_contact_urgence": "15",
+      "id_student": 34,
+      "parente_tuteur": "3",
+      "parente_contact_urgence": "1",
+      "habite_avec": "SON_PERE_SEUL"
+    }
+  ]
+}
