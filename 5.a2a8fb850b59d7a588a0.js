@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{PN7o:function(n,o,t){"use strict";t.r(o),t.d(o,"AuthenticationModule",function(){return i});var e=t("ofXK"),r=t("fXoL");let i=(()=>{class n{}return n.\u0275mod=r.Lb({type:n}),n.\u0275inj=r.Kb({factory:function(o){return new(o||n)},imports:[[e.b]]}),n})()}}]);
