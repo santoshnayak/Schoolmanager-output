@@ -1,0 +1,30 @@
+{
+  "matricule": "DFGHJ5",
+  "inscription": {
+    "classe": {
+      "id_classe": 69,
+      "id_orientation": 57,
+      "classe_name": "2nde S A",
+      "orientationName": "2nde S"
+    },
+    "orientation": {
+      "id_orientation": 57,
+      "id_school_level": 0,
+      "id_filiere": 107,
+      "nom_orientation": "2nde S",
+      "school_level": "2nde",
+      "nom_filiere": "S",
+      "tarif_orientation": "0"
+    }
+  },
+  "anneeScolaire": "2019",
+  "id_user": 184,
+  "nom": "Benoit",
+  "prenom": "Gabriel",
+  "telephone": "0147852369",
+  "mail": "GabrielBenoit@gmail.com",
+  "sexe": "M",
+  "birthday": "20/06/1997",
+  "nationalite": "10",
+  "admin": "no"
+}

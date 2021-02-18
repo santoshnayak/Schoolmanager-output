@@ -1,0 +1,222 @@
+{
+  "Result": "OK",
+  "Records": [
+    {
+      "matricule": "DFGHJ5",
+      "inscription": {
+        "classe": {
+          "id_classe": 69,
+          "id_orientation": 57,
+          "classe_name": "2nde S A",
+          "orientationName": "2nde S"
+        },
+        "orientation": {
+          "id_orientation": 57,
+          "id_school_level": 0,
+          "id_filiere": 107,
+          "nom_orientation": "2nde S",
+          "school_level": "2nde",
+          "nom_filiere": "S",
+          "tarif_orientation": "0"
+        }
+      },
+      "anneeScolaire": "2019",
+      "id_user": 184,
+      "nom": "Benoit",
+      "prenom": "Gabriel",
+      "telephone": "0147852369",
+      "mail": "GabrielBenoit@gmail.com",
+      "sexe": "M",
+      "birthday": "20/06/1997",
+      "nationalite": "10",
+      "admin": "no"
+    },
+    {
+      "matricule": "DFGKD4",
+      "inscription": {
+        "classe": {
+          "id_classe": 69,
+          "id_orientation": 57,
+          "classe_name": "2nde S A",
+          "orientationName": "2nde S"
+        },
+        "orientation": {
+          "id_orientation": 57,
+          "id_school_level": 0,
+          "id_filiere": 107,
+          "nom_orientation": "2nde S",
+          "school_level": "2nde",
+          "nom_filiere": "S",
+          "tarif_orientation": "0"
+        }
+      },
+      "anneeScolaire": "2019",
+      "id_user": 247,
+      "nom": "Bonneau",
+      "prenom": "Marlon",
+      "telephone": "0148758202",
+      "adresse": "25 rue des pages",
+      "mail": "BonneauMarlon@gmail.com",
+      "sexe": "F",
+      "birthday": "05/02/1998",
+      "nationalite": "8",
+      "admin": "no"
+    },
+    {
+      "matricule": "FSRX7",
+      "inscription": {
+        "classe": {
+          "id_classe": 69,
+          "id_orientation": 57,
+          "classe_name": "2nde S A",
+          "orientationName": "2nde S"
+        },
+        "orientation": {
+          "id_orientation": 57,
+          "id_school_level": 0,
+          "id_filiere": 107,
+          "nom_orientation": "2nde S",
+          "school_level": "2nde",
+          "nom_filiere": "S",
+          "tarif_orientation": "0"
+        }
+      },
+      "anneeScolaire": "2019",
+      "id_user": 215,
+      "nom": "Delorme",
+      "prenom": "MILA",
+      "telephone": "0144788855",
+      "adresse": "12 avenue des jardins",
+      "mail": "MILADelorme@gmail.com",
+      "sexe": "F",
+      "birthday": "20/06/1998",
+      "lieu_naissance": "Nantes",
+      "nationalite": "67",
+      "admin": "no"
+    },
+    {
+      "matricule": "DFGKD4",
+      "inscription": {
+        "classe": {
+          "id_classe": 69,
+          "id_orientation": 57,
+          "classe_name": "2nde S A",
+          "orientationName": "2nde S"
+        },
+        "orientation": {
+          "id_orientation": 57,
+          "id_school_level": 0,
+          "id_filiere": 107,
+          "nom_orientation": "2nde S",
+          "school_level": "2nde",
+          "nom_filiere": "S",
+          "tarif_orientation": "0"
+        }
+      },
+      "anneeScolaire": "2019",
+      "id_user": 246,
+      "nom": "Maillet",
+      "prenom": "Nelson",
+      "telephone": "0148758202",
+      "adresse": "25 rue des pages",
+      "mail": "MailletNelson@gmail.com",
+      "sexe": "F",
+      "birthday": "05/02/1998",
+      "nationalite": "8",
+      "admin": "no"
+    },
+    {
+      "matricule": "DFGKD4",
+      "inscription": {
+        "classe": {
+          "id_classe": 69,
+          "id_orientation": 57,
+          "classe_name": "2nde S A",
+          "orientationName": "2nde S"
+        },
+        "orientation": {
+          "id_orientation": 57,
+          "id_school_level": 0,
+          "id_filiere": 107,
+          "nom_orientation": "2nde S",
+          "school_level": "2nde",
+          "nom_filiere": "S",
+          "tarif_orientation": "0"
+        }
+      },
+      "anneeScolaire": "2019",
+      "id_user": 249,
+      "nom": "Salaun",
+      "prenom": "Harry",
+      "telephone": "0148758202",
+      "adresse": "25 rue des pages",
+      "mail": "SalaunHarry@gmail.com",
+      "sexe": "F",
+      "birthday": "05/02/1998",
+      "nationalite": "8",
+      "admin": "no"
+    },
+    {
+      "matricule": "DFGKD4",
+      "inscription": {
+        "classe": {
+          "id_classe": 69,
+          "id_orientation": 57,
+          "classe_name": "2nde S A",
+          "orientationName": "2nde S"
+        },
+        "orientation": {
+          "id_orientation": 57,
+          "id_school_level": 0,
+          "id_filiere": 107,
+          "nom_orientation": "2nde S",
+          "school_level": "2nde",
+          "nom_filiere": "S",
+          "tarif_orientation": "0"
+        }
+      },
+      "anneeScolaire": "2019",
+      "id_user": 248,
+      "nom": "Tournie",
+      "prenom": "Calvin",
+      "telephone": "0148758202",
+      "adresse": "25 rue des pages",
+      "mail": "TournieCalvin@gmail.com",
+      "sexe": "F",
+      "birthday": "05/02/1998",
+      "nationalite": "8",
+      "admin": "no"
+    },
+    {
+      "matricule": "DFGKD4",
+      "inscription": {
+        "classe": {
+          "id_classe": 69,
+          "id_orientation": 57,
+          "classe_name": "2nde S A",
+          "orientationName": "2nde S"
+        },
+        "orientation": {
+          "id_orientation": 57,
+          "id_school_level": 0,
+          "id_filiere": 107,
+          "nom_orientation": "2nde S",
+          "school_level": "2nde",
+          "nom_filiere": "S",
+          "tarif_orientation": "0"
+        }
+      },
+      "anneeScolaire": "2019",
+      "id_user": 250,
+      "nom": "Vial",
+      "prenom": "Wesley",
+      "telephone": "0148758202",
+      "adresse": "25 rue des pages",
+      "mail": "VialWesley@gmail.com",
+      "sexe": "F",
+      "birthday": "05/02/1998",
+      "nationalite": "8",
+      "admin": "no"
+    }
+  ]
+}

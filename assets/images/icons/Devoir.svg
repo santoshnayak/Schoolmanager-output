@@ -1,0 +1,45 @@
+<svg id="Devoir" xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <rect id="Rectangle_573" data-name="Rectangle 573" width="29" height="29" rx="3" fill="#f5f6fa"/>
+  <g id="test_1_" data-name="test (1)" transform="translate(8 8)" opacity="0.83">
+    <g id="Groupe_851" data-name="Groupe 851">
+      <g id="Groupe_850" data-name="Groupe 850">
+        <path id="Tracé_297" data-name="Tracé 297" d="M9.2,1.618H7.983V1.194a.4.4,0,0,0-.4-.4H6.324A1.194,1.194,0,0,0,4.073.8H2.785a.4.4,0,0,0-.4.4v.424H1.194A1.2,1.2,0,0,0,0,2.811v9.575a1.2,1.2,0,0,0,1.194,1.194H9.2A1.2,1.2,0,0,0,10.4,12.386V2.811A1.2,1.2,0,0,0,9.2,1.618ZM3.183,1.591H4.4a.4.4,0,0,0,.4-.4.4.4,0,0,1,.8,0,.4.4,0,0,0,.4.4H7.188v.424a.4.4,0,0,1-.4.4H3.581a.4.4,0,0,1-.4-.4ZM9.6,12.386a.4.4,0,0,1-.4.4H1.194a.4.4,0,0,1-.4-.4V2.811a.4.4,0,0,1,.4-.4H2.455a1.2,1.2,0,0,0,1.125.8H6.79a1.2,1.2,0,0,0,1.125-.8H9.2a.4.4,0,0,1,.4.4Z" fill="#6a5aeb"/>
+      </g>
+    </g>
+    <g id="Groupe_853" data-name="Groupe 853" transform="translate(1.591 6.79)">
+      <g id="Groupe_852" data-name="Groupe 852">
+        <path id="Tracé_298" data-name="Tracé 298" d="M63.094,256.119a.4.4,0,0,0-.563,0L61.2,257.429l-.517-.517a.4.4,0,1,0-.563.563l.8.8a.4.4,0,0,0,.56,0l1.618-1.591A.4.4,0,0,0,63.094,256.119Z" transform="translate(-59.999 -256)" fill="#6a5aeb"/>
+      </g>
+    </g>
+    <g id="Groupe_855" data-name="Groupe 855" transform="translate(1.591 9.575)">
+      <g id="Groupe_854" data-name="Groupe 854">
+        <path id="Tracé_299" data-name="Tracé 299" d="M63.094,361.119a.4.4,0,0,0-.563,0L61.2,362.429l-.517-.517a.4.4,0,1,0-.563.563l.8.8a.4.4,0,0,0,.56,0l1.618-1.591A.4.4,0,0,0,63.094,361.119Z" transform="translate(-59.999 -361)" fill="#6a5aeb"/>
+      </g>
+    </g>
+    <g id="Groupe_857" data-name="Groupe 857" transform="translate(1.591 4.005)">
+      <g id="Groupe_856" data-name="Groupe 856">
+        <path id="Tracé_300" data-name="Tracé 300" d="M62.27,152.708l-.514-.514.514-.514a.4.4,0,0,0-.563-.563l-.514.514-.514-.514a.4.4,0,0,0-.563.563l.514.514-.514.514a.4.4,0,0,0,.563.563l.514-.514.514.514a.4.4,0,0,0,.563-.563Z" transform="translate(-60 -151)" fill="#6a5aeb"/>
+      </g>
+    </g>
+    <g id="Groupe_859" data-name="Groupe 859" transform="translate(5.596 4.801)">
+      <g id="Groupe_858" data-name="Groupe 858">
+        <path id="Tracé_301" data-name="Tracé 301" d="M213.811,181H211.4a.4.4,0,1,0,0,.8h2.414a.4.4,0,0,0,0-.8Z" transform="translate(-211 -181)" fill="#6a5aeb"/>
+      </g>
+    </g>
+    <g id="Groupe_861" data-name="Groupe 861" transform="translate(5.596 7.585)">
+      <g id="Groupe_860" data-name="Groupe 860">
+        <path id="Tracé_302" data-name="Tracé 302" d="M213.811,286H211.4a.4.4,0,1,0,0,.8h2.414a.4.4,0,0,0,0-.8Z" transform="translate(-211 -286)" fill="#6a5aeb"/>
+      </g>
+    </g>
+    <g id="Groupe_863" data-name="Groupe 863" transform="translate(5.596 10.37)">
+      <g id="Groupe_862" data-name="Groupe 862">
+        <path id="Tracé_303" data-name="Tracé 303" d="M213.811,391H211.4a.4.4,0,1,0,0,.8h2.414a.4.4,0,0,0,0-.8Z" transform="translate(-211 -391)" fill="#6a5aeb"/>
+      </g>
+    </g>
+    <g id="Groupe_865" data-name="Groupe 865" transform="translate(11.192 2.414)">
+      <g id="Groupe_864" data-name="Groupe 864">
+        <path id="Tracé_304" data-name="Tracé 304" d="M423.193,91A1.2,1.2,0,0,0,422,92.193v6.365a.41.41,0,0,0,.02.125l.8,2.414a.4.4,0,0,0,.756,0l.8-2.414a.413.413,0,0,0,.02-.125V92.193A1.2,1.2,0,0,0,423.193,91Zm0,8.7-.329-1a.731.731,0,0,1,.657,0Zm.4-1.818a1.53,1.53,0,0,0-.8,0v-3.7h.8Zm0-4.5h-.8V92.193a.4.4,0,0,1,.8,0Z" transform="translate(-422 -91)" fill="#6a5aeb"/>
+      </g>
+    </g>
+  </g>
+</svg>
